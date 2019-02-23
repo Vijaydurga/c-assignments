@@ -13,7 +13,7 @@ int main()
 		cin >> a[i];
 	for (i = 0;i < n;i++)
 	{
-		for (int j = i ;j <= n;j++)
+		for (int j = i;j <= n;j++)
 		{
 			if (a[i] > 0 && a[j] < 0)
 				swap(a[i], a[j]);

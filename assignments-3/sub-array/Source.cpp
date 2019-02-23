@@ -3,10 +3,10 @@
 using namespace std;
 int main()
 {
-	int n, sum, temp, i, j = 0,flag=0;
+	int n, sum, temp, i, j = 0, flag = 0;
 	cout << "enter size of array : ";
 	cin >> n;
-	int *a=NULL;
+	int *a = NULL;
 	a = new int[n];
 	cout << "enter array elements : ";
 	for (i = 0;i < n;i++)
@@ -31,7 +31,7 @@ int main()
 			break;
 		}
 	}
-	if ( flag == 0)
+	if (flag == 0)
 		cout << "no sub-array found";
 	delete a;
 	system("pause");
