@@ -5,7 +5,7 @@ using namespace std;
 
 void main()
 {
-	int  ch, number, i = 0, sum = 0, m = 0;
+	int ch, number, i = 0, sum = 0, m = 0;
 	bool a[8] = { 0 };
 	cout << "enter your choice : " << endl << "1.convert binary to decimal " << endl << "2.convert decimal to binary" << endl;
 	cin >> ch;

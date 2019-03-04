@@ -1,4 +1,5 @@
 #include <iostream>
+#include<stdio.h>
 #include <cmath>
 #include <cstdlib>
 using namespace std;
@@ -6,7 +7,7 @@ using namespace std;
 void main()
 {
 	int remainder = 0, i = 0, sum = 0, m = 0, ch, number;
-	char  b[4] = { 0 };
+	 char b[4] = { 0 };
 	cout << "enter your choice : " << "1.convert binary to hexadecimal " << endl << "2.convert hexadecimal to binary";
 	cin >> ch;
 	switch (ch)
@@ -36,7 +37,7 @@ void main()
 						cout << "D";
 					else if (sum == 14)
 						cout << "E";
-					else 
+					else
 						cout << "F";
 				}
 				else

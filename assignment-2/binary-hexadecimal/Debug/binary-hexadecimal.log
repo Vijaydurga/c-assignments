@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-2\binary-hexadecimal\source.cpp(24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-2\binary-hexadecimal\source.cpp(77): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  binary-hexadecimal.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\c-assignments\assignment-2\Debug\binary-hexadecimal.exe
+  binary-hexadecimal.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\c-assignments\assignment-2\Debug\binary-hexadecimal.pdb (Full PDB)
