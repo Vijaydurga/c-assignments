@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-3\analyze\source.cpp(7): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-3\analyze\source.cpp(8): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  analyze.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\c-assignments\assignment-3\Debug\analyze.exe
+  analyze.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\c-assignments\assignment-3\Debug\analyze.pdb (Full PDB)
