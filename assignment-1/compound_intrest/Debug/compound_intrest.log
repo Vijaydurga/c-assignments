@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-1\compound_intrest\source.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-1\compound_intrest\source.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-1\compound_intrest\source.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-1\compound_intrest\source.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-1\compound_intrest\source.cpp(87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-1\compound_intrest\source.cpp(107): warning C4101: 'si': unreferenced local variable
+  compound_intrest.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\c-assignments\assignment-1\Debug\compound_intrest.exe
+  compound_intrest.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\c-assignments\assignment-1\Debug\compound_intrest.pdb (Full PDB)
