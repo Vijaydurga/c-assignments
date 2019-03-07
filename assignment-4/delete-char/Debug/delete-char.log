@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\delete-char\source.cpp(55): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\delete-char\source.cpp(55): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\delete-char\source.cpp(55): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\delete-char\source.cpp(55): note: this argument is used as a buffer size
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\delete-char\source.cpp(59): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\delete-char\source.cpp(59): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\delete-char\source.cpp(59): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\delete-char\source.cpp(59): note: this argument is used as a buffer size
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\delete-char\source.cpp(51): warning C4101: 'ind': unreferenced local variable
+  delete-char.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\c-assignments\assignment-4\Debug\delete-char.exe
+  delete-char.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\c-assignments\assignment-4\Debug\delete-char.pdb (Full PDB)

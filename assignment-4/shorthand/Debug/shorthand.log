@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\shorthand\source.cpp(109): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\shorthand\source.cpp(109): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\shorthand\source.cpp(109): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\shorthand\source.cpp(109): note: this argument is used as a buffer size
+  shorthand.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\c-assignments\assignment-4\Debug\shorthand.exe
+  shorthand.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\c-assignments\assignment-4\Debug\shorthand.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\pointer-to-char-array\source.cpp(9): warning C4477: 'printf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char **'
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\pointer-to-char-array\source.cpp(11): warning C4477: 'printf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char **'
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\pointer-to-char-array\source.cpp(17): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+  pointer-to-char-array.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\c-assignments\assignment-4\Debug\pointer-to-char-array.exe
+  pointer-to-char-array.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\c-assignments\assignment-4\Debug\pointer-to-char-array.pdb (Full PDB)

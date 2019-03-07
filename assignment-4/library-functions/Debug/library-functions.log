@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\library-functions\source.cpp(121): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\library-functions\source.cpp(121): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\library-functions\source.cpp(121): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\library-functions\source.cpp(121): note: this argument is used as a buffer size
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\library-functions\source.cpp(127): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\library-functions\source.cpp(127): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\library-functions\source.cpp(127): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\library-functions\source.cpp(127): note: this argument is used as a buffer size
+c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\library-functions\source.cpp(135): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\library-functions\source.cpp(135): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\library-functions\source.cpp(135): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\cdac\source\repos\vijaydurga\c-assignments\assignment-4\library-functions\source.cpp(135): note: this argument is used as a buffer size
+  library-functions.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\c-assignments\assignment-4\Debug\library-functions.exe
+  library-functions.vcxproj -> C:\Users\cdac\Source\Repos\Vijaydurga\c-assignments\assignment-4\Debug\library-functions.pdb (Full PDB)
